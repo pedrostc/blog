@@ -11,6 +11,7 @@ It had the good side effect of giving me a knowledge base on the project that I 
 I've tried many tools, but none of them gave me all that I wanted, and their process didn't match what I wanted.
 Also it was an exercise on the "Process first" approach, trying to learn how to use a tool and the process that it was built to fulfil is too much overhead and normally leads to just abandoning everything.
 Using regular, simple todo list apps ended up like a huge mess, so I decide to move one step back and just do a simple list using index cards and pens of different colors.
+Recently I'm giving Microsof ToDo a try, and so far I really like how it organizes eveything and the integration with Outlook. There are some things that I wish it had, like being able to see the history of a task, add notes to specific sub-tasks (now you can only add notes to the task but not to specific subitems, and be able to see the previous versions of "My Day", like "My Yesterday" or something like that.
 
 ## Tools needed
 - Index cards.
