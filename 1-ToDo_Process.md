@@ -1,21 +1,19 @@
-The Original process
-    Motivaton
-        The main motivation to create my own todo process was to answer some questions
-            WTF did I do today?
-            Why haven't I finished tasks X, Y and Z?
-            Why I can't move forward with this task?
-        And also to help to break huge tasks into smaller ones and keeping note of the evolution of this process throughout time.
-            Task 1 was too big so it became 10 separate tasks with sub tasks during it's 4 days of necessary work.
-        It had the good side effect of giving me a knowledge base on the project that I was working on at the moment and have notes organized with the tasks that originated them.
-    Why not use a tool?
-        I tried many tools, but none of them gave me all that I wanted and their process didn't match my needs.
-        Also it was an exercise of the "Process first" approach.
-            This is an idea that I revisit every now and then and it's based on my own frustrations growing as a developer and observing some failing projects and implementations.
-            There's a tendency to find the right tool to the job without knowing what the job is.
-            Throwing the responsibility of fixing the process on the tool of choice instead of trying to learn a methodology first and then finding a tool that's right to it.
-            It most certainly not my original idea, there are probably a ton of articles out there about it but I don't know how they call it. (Process First, Technology second?)
-            Also, trying to learn how to use a tool and it's process is too much overhead and normally lead to just abandoning everything.
-    The process
+# My ToDo Process
+## Motivaton
+The main motivation behind this process was to answer some questions:
+- WTF did I do today?
+- Why haven't I finished tasks X, Y and Z?
+- Why I can't move forward with this task?
+And also to help to break huge tasks into smaller ones and keeping note of the evolution of this process throughout time (Ex.:  Task 1 was too big so it became 10 separate tasks with sub tasks during it's 4 days of necessary work.)
+It had the good side effect of giving me a knowledge base on the project that I was working on at the moment and have notes organized with the tasks that originated them.
+
+## Why not use X tool?
+I've tried many tools, but none of them gave me all that I wanted, and their process didn't match what I wanted.
+Also it was an exercise on the "Process first" approach, trying to learn how to use a tool and the process that it was built to fulfil is too much overhead and normally leads to just abandoning everything.
+Using regular, simple todo list apps ended up like a huge mess, so I decide to move one step back and just do a simple list using index cards and pens of different colors.
+
+## The process
+
         I use indentation and different bullets to show hierarchy
             - [] Item 1
  + [] sub item 1.1
