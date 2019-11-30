@@ -12,6 +12,12 @@ I've tried many tools, but none of them gave me all that I wanted, and their pro
 Also it was an exercise on the "Process first" approach, trying to learn how to use a tool and the process that it was built to fulfil is too much overhead and normally leads to just abandoning everything.
 Using regular, simple todo list apps ended up like a huge mess, so I decide to move one step back and just do a simple list using index cards and pens of different colors.
 
+## Tools needed
+- Index cards.
+- Pens of different colors. The basic set of one blue, one black, and one red is perfect and is all I use.
+- Somewhere to hang the cards so they stay into view and easy to access.
+- Something to group all the past cards. I use Binder Clips for this, and also to hang the cards.
+
 ## The process
 
         I use indentation and different bullets to show hierarchy
