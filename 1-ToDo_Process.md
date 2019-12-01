@@ -20,20 +20,30 @@ Recently I'm giving Microsof ToDo a try, and so far I really like how it organiz
 - Something to group all the past cards. I use Binder Clips for this, and also to hang the cards.
 
 ## The process
+All default text is written down using a BLUE pen. By default text I mean, header, card number, title, and tasks. The other colors will be used later to show intent on mark-ups and other texts.
+At the top of the card I have the name of the project (the thing that I use to group the lists) and the date. Write at the bottom of the card it's number. The number is like the page number for that day's list, always starting with 1.
+
 I use indentation and different bullets to show hierarchy
     - [] Item 1
         + [] sub item 1.1
         + [] sub item 1.2
     - [] Item 2
     - [] Item 3
-I borrowed this notation from markdown
-Yes I use markdown notation while hand-writing something.
-I normally keep the list depth to 2 levels (main item and sub items)
-At the top of the card I have the name of the project (the thing that I use to group the lists) and the date.
-All items are written down using a BLUE pen
+I normally keep the list depth to 2 levels (main item and sub items). If there's really the need for another level I consider that the level 2 item should be a level 1 instead.
+    - [] Item 1
+        + [] sub item 1.1
+        + [] sub item 1.2
+            * [] sub item 1.2.1
+    Should become
+    - [] Item 1
+        + [] sub item 1.1
+    - [] item 1.2
+        + sub item 1.2.1
+
+
 The tasks checkboxes have different symbols and colors for different actions
-    - [X] Done Item
-    - [-] Cancelled Item
+    - [X] ~~Done Item~~
+    - [-] ~~Cancelled Item~~
     - [+] Not completed Item moved to the next day.
         "Done" is BLACK.
         "Cancelled" and "Moved to the next day" are RED.
